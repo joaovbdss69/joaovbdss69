@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Vitor
 
 
-- 🔭 Estou trabalhando hoje como desenvolvedor do CRM Salesforce na **Visum Digital
+- 🔭 Estou trabalhando hoje como desenvolvedor do CRM Salesforce na Visum Digital
 - 🎓 Sou formado em Ciências da Computação
 - 🌱 Estudando Machine Learning 
 - 📫 Contate-me no email joaovbds4@gmail.com
