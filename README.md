@@ -23,21 +23,11 @@
 
 ### 📊 Status GitHub 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/joaovbdss69">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovbdss69&show_icons=true&theme=radical&count_private=true"
   </a>
 </div>
   
-## Principais modelos criados 
-  
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovbdss69&repo=Bank-Loan-Model"
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovbdss69&repo=creditRiskDecisionTree"
-  </a>
-</div>
   
 ## 📱 Me conheça mais por aqui:
     
